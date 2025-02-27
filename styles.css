@@ -1,0 +1,44 @@
+body {
+    background-color: #d8dee0;
+}
+
+header {
+    background-color: rgb(66, 33, 199);
+    color: white;
+    padding: 15px ;
+    text-align: center;
+}
+
+.weather-forecast {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid ;
+    text-align: center;
+}
+
+th, td {
+    padding: 10px;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
+a {
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(66, 33, 199);
+}
+
+
+
