@@ -1,0 +1,69 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    color:red;
+    text-align: center;
+    border: 12px solid red;
+    transition: 1s;
+}
+h2 {
+    color:white;
+    text-align: center;
+    border: 12px dotted blue;
+    transition: 1s;
+}
+h3 {
+    color:blue;
+    text-align: center;
+    border: 12px dashed green;
+    transition: 1s;
+}
+h4 {
+    color:grey;
+    text-align: center;
+    border: 12px solid black;
+    transition: 1s;
+}
+h5 {
+    color:red;
+    text-align: center;
+    border: 12px solid white;
+    transition: 1s;
+}
+h6 {
+    color:blue;
+    text-align: center;
+    border: 12px solid green;
+    transition: 1s;
+}
+h1:hover {
+    cursor: pointer;
+    color: black;
+    border: 7px dotted black;
+}
+h2:hover {
+    cursor: pointer;
+    color: brown;
+    border: 7px solid wheat;
+}
+h3:hover {
+    cursor: pointer;
+    color: red;
+    border: 7px dotted yellow;
+}
+h4:hover {
+    cursor: pointer;
+    color: rgb(122, 16, 16);
+    border: 7px dashed rgb(16, 17, 82);
+}
+h5:hover {
+    cursor: pointer;
+    color: rgb(31, 173, 183);
+    border: 7px dotted rgb(46, 207, 143);
+}
+h6:hover {
+    cursor: pointer;
+    color: rgb(161, 212, 32);
+    border: 7px dashed black;
+}
